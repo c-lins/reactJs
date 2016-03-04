@@ -1,0 +1,2 @@
+项目中的node_modules因为太大 所以都删除了 需要线执行npm install
+后端启动 运行 springboot-demo中 MainApplication.java的main方法
